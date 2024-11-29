@@ -12,6 +12,9 @@
 - Setup you firebase config, you can find it at **Project Setting** > **General** > Scrolldown to **Your app** section
     - copy the configuration to you .env file at the root of project
 
+## Note
+If you not have any user data in firestore, try to use my database seeding with **node seed.js*** command
+
 ## How to start
 ### with NPM
 - run **npm run install** at the root of project
