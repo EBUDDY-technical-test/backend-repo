@@ -25,6 +25,7 @@
 		"@types/cors": "^2.8.17",
 		"@types/express": "^5.0.0",
 		"@types/node": "^22.10.0",
+		"turbo": "^2.3.3",
 		"typescript": "^5.7.2"
 	}
 }
